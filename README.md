@@ -251,3 +251,20 @@ Here are some links to check out some more fun stuff to do with Github. Google c
 - https://guides.github.com/
 ## Contributors
 - Ishimwe Heritier
+## Fun Fact
+I love learning Git!
+Did you know that Git was created by Linus Torvalds in 2005?
+## TODO
+- Learn more about branches
+- Practice merging conflicts
+- Explore GitHub Actions
+## Joke of the Day
+Why do programmers prefer dark mode?  
+Because light attracts bugs! 🐛
+## How to contribute
+1. Fork the repo
+2. Create a branch
+3. Make changes
+4. Commit and push
+5. Open a pull request
+
